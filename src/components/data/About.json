@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "role": "INTERNSHIP",
+      "program": "Prodigy InfoTech"
+     
+    },
+    {
+      "id": 2,
+      "role": " UNDER GRADUATION",
+      "college":"Raja Balwant Singh College, Agra Uttar Pradesh",
+      "Course": "Bachelor of Computer Application",
+      "years": "2022-2025"
+
+    },
+    {
+      "id": 3,
+      "role": " INTERMEDIATE EDUCATION",
+      "college": "M.D Jain Inter College, Agra Uttar Pradesh",
+      "years": "2018-2020"
+    },
+    {
+      "id": 4,
+      "role": " HIGH SCHOOL EDUCATION",
+      "college": "M.D Jain Inter College, Agra Uttar Pradesh",
+      "years": "2016-2018"
+    }
+  ]
